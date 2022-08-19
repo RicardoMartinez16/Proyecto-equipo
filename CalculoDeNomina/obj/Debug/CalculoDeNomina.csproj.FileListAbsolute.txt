@@ -1,0 +1,9 @@
+C:\Users\richy\Documents\VISUAL STUDIO\CalculoDeNomina\CalculoDeNomina\bin\Debug\CalculoDeNomina.exe
+C:\Users\richy\Documents\VISUAL STUDIO\CalculoDeNomina\CalculoDeNomina\bin\Debug\CalculoDeNomina.pdb
+C:\Users\richy\Documents\VISUAL STUDIO\CalculoDeNomina\CalculoDeNomina\obj\Debug\CalculoDeNomina.Form1.resources
+C:\Users\richy\Documents\VISUAL STUDIO\CalculoDeNomina\CalculoDeNomina\obj\Debug\CalculoDeNomina.Properties.Resources.resources
+C:\Users\richy\Documents\VISUAL STUDIO\CalculoDeNomina\CalculoDeNomina\obj\Debug\CalculoDeNomina.csproj.GenerateResource.Cache
+C:\Users\richy\Documents\VISUAL STUDIO\CalculoDeNomina\CalculoDeNomina\obj\Debug\CalculoDeNomina.exe
+C:\Users\richy\Documents\VISUAL STUDIO\CalculoDeNomina\CalculoDeNomina\obj\Debug\CalculoDeNomina.pdb
+C:\Users\richy\Documents\VISUAL STUDIO\CalculoDeNomina\CalculoDeNomina\obj\Debug\CalculoDeNomina.csproj.AssemblyReference.cache
+C:\Users\richy\Documents\VISUAL STUDIO\CalculoDeNomina\CalculoDeNomina\obj\Debug\CalculoDeNomina.csproj.CoreCompileInputs.cache
